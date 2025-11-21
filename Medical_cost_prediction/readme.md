@@ -66,9 +66,8 @@ The dataset contains **1,338 rows and 7 columns**:
 
 #### **Multivariate**
 - Correlation heatmap  
-- Pairplot  
-- Grouped summaries  
-
+- Pairplot
+- 
 ---
 
 ### **4️⃣ Data Cleaning**
@@ -199,19 +198,6 @@ streamlit run app.py
 * XGBoost
 * Pickle
 * Streamlit
-
----
-
-## 📁 Project Structure
-
-```
-├── app.py
-├── final_model.pkl
-├── final_scaler.pkl
-├── cleaned_medex_data.csv
-├── requirements.txt
-└── README.md
-```
 
 ---
 
