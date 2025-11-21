@@ -1,4 +1,4 @@
-# 🏥 MedEx Insurance Cost Prediction  
+# 🏥 MedEx: Medical Insurance Cost Prediction System
 ### *Machine Learning Regression Project | End-to-End Pipeline*
 
 This project predicts **medical insurance charges** based on demographic and health-related factors.  
