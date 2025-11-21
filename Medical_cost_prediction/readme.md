@@ -1,4 +1,3 @@
-```md
 # 🏥 MedEx Insurance Cost Prediction  
 ### *Machine Learning Regression Project | End-to-End Pipeline*
 
@@ -233,18 +232,8 @@ This project demonstrates:
 ## 🙌 Author
 
 **Vandana Padhi**
-AI/ML Developer
 Passionate about Machine Learning, Data Science, and Streamlit Deployments.
 
 ```
 
----
 
-If you want:
-
-📌 A more aesthetic README (with badges, emojis, banners)  
-📌 A short GIF demo section  
-📌 A “How to Use the App” guide  
-
-Just say **“give enhanced README”**!
-```
