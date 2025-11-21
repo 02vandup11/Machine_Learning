@@ -218,6 +218,4 @@ This project demonstrates:
 ## 🙌 Author
 
 **Vandana Padhi**
-Passionate about Machine Learning, Data Science, and Streamlit Deployments.
-
-
+Passionate about Machine Learning, Data Science, and Streamlit Deployments.  
