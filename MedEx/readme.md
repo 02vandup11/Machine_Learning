@@ -220,6 +220,4 @@ This project demonstrates:
 **Vandana Padhi**
 Passionate about Machine Learning, Data Science, and Streamlit Deployments.
 
-```
-
 
