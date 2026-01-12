@@ -44,17 +44,6 @@ This project is ideal for:
 
 ---
 
-## 📂 Project Structure
-
-```
-📁 Regression-Model-Creation
-│
-├── Regression_model_creation.ipynb   # Main notebook
-├── README.md                         # Project documentation
-```
-
----
-
 ## 🔄 Workflow Explanation
 
 ### 1️⃣ Data Loading
@@ -151,7 +140,6 @@ These metrics help assess prediction accuracy and model reliability.
 ## 🙌 Author
 
 **Vandana Padhi**  
-BSc IT Graduate | AI Trainer | Aspiring Data Analyst
 
 ---
 
