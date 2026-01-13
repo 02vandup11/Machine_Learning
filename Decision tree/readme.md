@@ -33,14 +33,6 @@ Splitting is performed using impurity measures such as **Gini Impurity** or **En
 
 ---
 
-## Project Structure
-```
-├── DecisionTree.ipynb
-├── README.md
-```
-
----
-
 ## Steps Performed
 1. Imported required Python libraries  
 2. Loaded the dataset into a Pandas DataFrame  
@@ -92,7 +84,6 @@ Open `DecisionTree.ipynb` and run all cells sequentially.
 
 ## Author
 **Vandana Padhi**  
-BSc IT Graduate | Data Analyst / Machine Learning Enthusiast  
 
 ---
 
