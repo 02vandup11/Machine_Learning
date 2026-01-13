@@ -49,14 +49,6 @@ SVM is a supervised learning algorithm that finds an optimal decision boundary (
 
 ---
 
-## Project Structure
-```
-├── RndomForest&SVM.ipynb
-├── README.md
-```
-
----
-
 ## Steps Performed
 1. Imported required Python libraries  
 2. Loaded the dataset into a Pandas DataFrame  
@@ -112,14 +104,15 @@ Open `RndomForest&SVM.ipynb` and run all cells sequentially.
 
 ---
 
-## Author
-**Vandana Padhi**  
-BSc IT Graduate | Data Analyst / Machine Learning Enthusiast  
-
----
-
 ## Future Improvements
 - Hyperparameter tuning  
 - Cross-validation  
 - Add more classification models  
-- Model deployment  
+- Model deployment
+
+---
+
+## Author
+**Vandana Padhi**  
+
+---
