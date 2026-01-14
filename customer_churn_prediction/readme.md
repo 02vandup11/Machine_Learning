@@ -83,13 +83,6 @@ best_churn_model_<model_name>.pkl
 
 ---
 
-## 📁 Project Structure
-├── customer_churn_prediction.ipynb
-├── README.md
-└── best_churn_model_*.pkl
-
----
-
 ## 📌 Use Cases
 - Customer retention strategy
 - Business decision-making
@@ -97,6 +90,3 @@ best_churn_model_<model_name>.pkl
 - Resume and portfolio project
 
 ---
-
-## 📜 Conclusion
-This project demonstrates a real-world business problem solved using Machine Learning, covering the complete pipeline from data preprocessing to model deployment readiness.
