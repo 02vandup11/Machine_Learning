@@ -5,15 +5,6 @@ This project implements **customer segmentation** using **unsupervised machine l
 
 ---
 
-## Repository Structure
-```
-├── Clustering.ipynb          # Jupyter Notebook containing analysis and clustering
-├── marketing_campaign.csv   # Dataset used for customer segmentation
-└── README.md                # Project documentation
-```
-
----
-
 ## Dataset Overview
 **File:** `marketing_campaign.csv`
 
@@ -84,5 +75,5 @@ This dataset is used to analyze customer behavior and create meaningful customer
 
 ## Author
 **Vandana Padhi**  
-BSc IT Graduate  
-Data Analytics | Machine Learning | AI Enthusiast
+
+---
